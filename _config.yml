@@ -1,7 +1,7 @@
 name: test80
 favicon: null
-layout_spectrum: 0.8232572714332491
-typography_spectrum: 0.32274649129249156
+layout_spectrum: 1
+typography_spectrum: 0.91674
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.6328521077521145
-  lightness: 0.03045603958889842
-  saturation: 0.430049852700904
+    - '#ffffff'
+    - '#000000'
+    - '#ffc221'
+    - '#d063a6'
+    - '#8da3d5'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.101132330019027
 purpose: []
